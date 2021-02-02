@@ -1,9 +1,7 @@
 package com.tekitng.workman.resources;
 
-import com.tekitng.workman.entities.User;
 import com.tekitng.workman.restparams.CreateUserRequest;
 import com.tekitng.workman.restparams.LoginRequest;
-import com.tekitng.workman.restparams.ValidateTokenResponse;
 import com.tekitng.workman.services.UserService;
 import org.eclipse.microprofile.openapi.annotations.security.SecurityRequirement;
 
